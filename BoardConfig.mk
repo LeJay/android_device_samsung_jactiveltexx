@@ -36,4 +36,4 @@ TARGET_KERNEL_VARIANT_CONFIG := jactive_att_defconfig
 
 # loki
 # Lejay: not sure what does it, but had issues. disabling. 
-# TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/msm8960-common/loki3
+TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/msm8960-common/loki3
