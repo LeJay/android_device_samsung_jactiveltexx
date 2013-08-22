@@ -32,7 +32,7 @@ TARGET_OTA_ASSERT_DEVICE := jactiveltexx
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/jactiveltexx/
 TARGET_KERNEL_CONFIG := cyanogen_jf_defconfig
-TARGET_KERNEL_VARIANT_CONFIG := jactive_eur_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := jactive_att_defconfig
 
 # loki
 # Lejay: not sure what does it, but had issues. disabling. 
