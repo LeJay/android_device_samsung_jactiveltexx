@@ -24,16 +24,16 @@
 -include device/samsung/jf-common/BoardConfigCommon.mk
 
 # inherit from the proprietary version
--include vendor/samsung/jfltei337/BoardConfigVendor.mk
+-include vendor/samsung/jactiveltexx/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := jactive, jactivelte, jactiveltexx
+TARGET_OTA_ASSERT_DEVICE := jactiveltexx
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/jactiveltexx/
 TARGET_KERNEL_CONFIG := cyanogen_jf_defconfig
-TARGET_KERNEL_VARIANT_CONFIG := jactive_att_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := jactive_eur_defconfig
 
 # loki
 # Lejay: not sure what does it, but had issues. disabling. 
-# TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/msm8960-common/loki3
+TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/msm8960-common/loki3
