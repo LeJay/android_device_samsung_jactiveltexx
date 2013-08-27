@@ -1,1 +1,28 @@
-# Add device specific blobs here
+# SGS4A camera blobs. Some might be repeated in jf-common
+
+lib/liboemcamera.so
+lib/libmmjpeg.so
+
+lib/libgemini.so
+lib/libmercury.so
+lib/libmmcamera_statsproc31.so
+lib/libTsAwb.so 
+lib/libTsAccm.so
+lib/libmmcamera_frameproc.so
+lib/libmmcamera_wavelet_lib.so
+lib/libmmcamera_hdr_lib.so
+# libmmgesture_services.so Not available. 
+lib/libmmcamera_plugin.so
+lib/libmmcamera_interface.so
+lib/libmmjpeg_interface.so
+lib/libmmstillomx.so
+
+lib/libchromatix_s5k3h5xa_zsl.so
+lib/libchromatix_s5k3h5xa_default_video.so
+
+# CM peeps are so messy. 
+
+lib/libril-qc-qmi-1.so
+lib/libril.so
+
+
