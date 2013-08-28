@@ -20,9 +20,3 @@ lib/libmmstillomx.so
 lib/libchromatix_s5k3h5xa_zsl.so
 lib/libchromatix_s5k3h5xa_default_video.so
 
-# CM peeps are so messy. 
-
-lib/libril-qc-qmi-1.so
-lib/libril.so
-
-
