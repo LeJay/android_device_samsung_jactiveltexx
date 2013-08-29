@@ -19,4 +19,14 @@ lib/libmmstillomx.so
 
 lib/libchromatix_s5k3h5xa_zsl.so
 lib/libchromatix_s5k3h5xa_default_video.so
+lib/libchromatix_s5k3h5xa_animation.so
+lib/libchromatix_s5k3h5xa_antishake.so
+lib/libchromatix_s5k3h5xa_lls.so
+lib/libchromatix_s5k3h5xa_preview.so
+lib/libchromatix_s5k3h5xa_zsl_drama.so
+lib/libchromatix_s5k3h5xa_zsl_panorama.so
 
+# Useful stuff for debugging
+bin/mm-qcamera-app
+bin/mm-qcamera-test
+bin/mm-qcamera-testsuite-client
