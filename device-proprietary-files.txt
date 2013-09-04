@@ -33,7 +33,8 @@ lib/libchromatix_s5k3h5xa_zsl_panorama.so
 lib/libmmcamera_faceproc.so
 lib/hw/camera.msm8960.so
 lib/libmmmpo.solib/libmmmpod.so
-lib/libril-qc-qmi-1.solib/libril-qcril-hook-oem.solib/libril.so
+lib/libril-qc-qmi-1.so
+lib/libril.so
 
 lib/libchromatix_imx074_default_video.so
 lib/libchromatix_imx074_preview.so
