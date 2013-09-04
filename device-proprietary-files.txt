@@ -30,7 +30,7 @@ lib/libchromatix_s5k3h5xa_lls.so
 lib/libchromatix_s5k3h5xa_preview.so
 lib/libchromatix_s5k3h5xa_zsl_drama.so
 lib/libchromatix_s5k3h5xa_zsl_panorama.so
-
+lib/libmmcamera_faceproc.so
 lib/hw/camera.msm8960.so
 
 # Useful stuff for debugging
