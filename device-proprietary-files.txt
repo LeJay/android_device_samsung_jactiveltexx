@@ -4,6 +4,9 @@ lib/liboemcamera.so
 bin/mm-qcamera-daemon
 cameradata/datapattern_420sp.yuv
 cameradata/datapattern_front_420sp.yuv
+lib/hw/camera.msm8960.so
+
+lib/libmmmpo.solib/libmmmpod.so
 
 lib/libmmjpeg.so
 lib/libgemini.so
@@ -22,6 +25,9 @@ lib/libmmstillomx.so
 lib/libimage-jpeg-enc-omx-comp.so
 lib/libimage-omx-common.so
 lib/libmmcamera_image_stab.so
+
+lib/libmmcamera_faceproc.so
+
 lib/libchromatix_s5k3h5xa_zsl.so
 lib/libchromatix_s5k3h5xa_default_video.so
 lib/libchromatix_s5k3h5xa_animation.so
@@ -30,11 +36,12 @@ lib/libchromatix_s5k3h5xa_lls.so
 lib/libchromatix_s5k3h5xa_preview.so
 lib/libchromatix_s5k3h5xa_zsl_drama.so
 lib/libchromatix_s5k3h5xa_zsl_panorama.so
-lib/libmmcamera_faceproc.so
-lib/hw/camera.msm8960.so
-lib/libmmmpo.solib/libmmmpod.so
-lib/libril-qc-qmi-1.so
-lib/libril.so
+lib/libchromatix_s5k6b2yx_pip.so
+lib/libchromatix_s5k6b2yx_preview.so
+lib/libchromatix_s5k6b2yx_smartstay.so
+lib/libchromatix_s5k6b2yx_video.so
+lib/libchromatix_s5k6b2yx_vt.so
+lib/libchromatix_s5k6b2yx_vt_hd.so
 
 lib/libchromatix_imx074_default_video.so
 lib/libchromatix_imx074_preview.so
@@ -65,12 +72,6 @@ lib/libchromatix_s5k3l1yx_video_hd.so
 lib/libchromatix_s5k3l1yx_zsl.so
 lib/libchromatix_s5k4e1_default_video.so
 lib/libchromatix_s5k4e1_preview.so
-lib/libchromatix_s5k6b2yx_pip.so
-lib/libchromatix_s5k6b2yx_preview.so
-lib/libchromatix_s5k6b2yx_smartstay.so
-lib/libchromatix_s5k6b2yx_video.so
-lib/libchromatix_s5k6b2yx_vt.so
-lib/libchromatix_s5k6b2yx_vt_hd.so
 
 
 
