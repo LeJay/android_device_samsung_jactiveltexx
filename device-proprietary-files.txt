@@ -6,7 +6,8 @@ cameradata/datapattern_420sp.yuv
 cameradata/datapattern_front_420sp.yuv
 lib/hw/camera.msm8960.so
 
-lib/libmmmpo.solib/libmmmpod.so
+lib/libmmmpo.so
+lib/libmmmpod.so
 
 lib/libmmjpeg.so
 lib/libgemini.so
@@ -81,3 +82,4 @@ lib/libchromatix_s5k4e1_preview.so
 bin/mm-qcamera-app
 bin/mm-qcamera-test
 bin/mm-qcamera-testsuite-client
+
