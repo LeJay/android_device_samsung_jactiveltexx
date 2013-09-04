@@ -1,8 +1,10 @@
 # SGS4A camera blobs. Some might be repeated in jf-common
 
 lib/liboemcamera.so
-lib/libmmjpeg.so
+bin/mm-qcamera-daemon
 
+
+lib/libmmjpeg.so
 lib/libgemini.so
 lib/libmercury.so
 lib/libmmcamera_statsproc31.so
@@ -28,7 +30,10 @@ lib/libchromatix_s5k3h5xa_preview.so
 lib/libchromatix_s5k3h5xa_zsl_drama.so
 lib/libchromatix_s5k3h5xa_zsl_panorama.so
 
+lib/hw/camera.msm8960.so
+
 # Useful stuff for debugging
+
 bin/mm-qcamera-app
 bin/mm-qcamera-test
 bin/mm-qcamera-testsuite-client
