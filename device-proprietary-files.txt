@@ -2,7 +2,8 @@
 
 lib/liboemcamera.so
 bin/mm-qcamera-daemon
-
+cameradata/datapattern_420sp.yuv
+cameradata/datapattern_front_420sp.yuv
 
 lib/libmmjpeg.so
 lib/libgemini.so
